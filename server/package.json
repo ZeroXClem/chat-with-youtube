@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@huggingface/inference": "^2.5.1",
-    "ai": "2.1.32",
+    "ai": "2.2.37",
     "next": "13.4.4-canary.11"
   },
   "devDependencies": {
